@@ -33,7 +33,12 @@ We compile various datasets and information sources surrounding migrant detentio
     * Details information on migrants who have died or gone missing at external borders or in the process of migrating transnationally
     * Information is a convenience sample of records from 2014 to June 2017
 ### Immigration process
-FILL ME IN
+* [USCIS information on obtaining Asylum in the United States](https://www.uscis.gov/humanitarian/refugees-asylum/asylum/obtaining-asylum-united-states)
+    * Provides background information on affirmative and defensive asylum seeking, as well as key differences between the two
+* [Data on credible and reasonable fear](https://www.uscis.gov/sites/default/files/USCIS/Outreach/PED_CFandRFstats09302018.pdf)
+    * PDF report with information from 2017 and 2018 fiscal years with some breakdown based on nationality
+* [US DOJ workload and adjudication statistics](https://www.justice.gov/eoir/workload-and-adjudication-statistics)
+    * Compilation of PDFs with data and reports on a broad range of topics
 ### Detention facilities
 * [Ice Detention Facilities (November 2017)](https://immigrantjustice.org/ice-detention-facilities-november-2017)
     * Data obtained via FOIA request by the Immigrant Legal Resource Center and by DHS between 4 November and 6 November, 2017
@@ -44,7 +49,6 @@ FILL ME IN
 * [Detention by the numbers report](https://www.freedomforimmigrants.org/detention-statistics)
     * Summary statistics and visualizations about detention in the United States using data from the 2018 fiscal year
     * Raw data not available, but data is disaggregated in a number of ways in visualizations and summaries (ex. by state, age group, etc.)
-### Immigration court
 
 ---
 
@@ -68,6 +72,3 @@ FILL ME IN
 * Use data voids to inform topical areas to submit FOIA requests about
 * Database where people can collaborate to find, process, and share data about migrant detentio
 * Creating visualizations that are accessible to the general population
-
-
-
