@@ -1,7 +1,10 @@
 # Data about migrant detention in the United States
 ## Summary
+
 We compile various datasets and information sources surrounding migrant detention in the United States in the 21<sup>st</sup> century, generally summarize the topics included and excluded from existing datasets, and provide examples of new information sources that should be created and explorations that can be done with existing data.
+
 ---
+
 ## Data & information sources
 ### General
 * [Global Detention Project Report on United States Immigration Detention](https://www.globaldetentionproject.org/countries/americas/united-states)
@@ -42,7 +45,9 @@ FILL ME IN
     * Summary statistics and visualizations about detention in the United States using data from the 2018 fiscal year
     * Raw data not available, but data is disaggregated in a number of ways in visualizations and summaries (ex. by state, age group, etc.)
 ### Immigration court
+
 ---
+
 ## Data notes
 ### Data quality
 * Little, if any, real time data
