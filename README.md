@@ -1,10 +1,14 @@
 # Data about migrant detention in the United States
 ## Summary
 We compile various datasets and information sources surrounding migrant detention in the United States in the 21<sup>st</sup> century, generally summarize the topics included and excluded from existing datasets, and provide examples of new information sources that should be created and explorations that can be done with existing data.
+---
 ## Data & information sources
-### Background
+### General
 * [Global Detention Project Report on United States Immigration Detention](https://www.globaldetentionproject.org/countries/americas/united-states)
     * Extensive background on immigrant detention in the United States, including historic overview, information about law, policy, and practice, and an overview of the infrastructures of detention.
+* [Syracuse TRAC Immigration Reports](https://trac.syr.edu/phptools/reports/reports.php?layer=immigration&report_type=report)
+    * Summary statistics and visualizations surrounding various topics related to immigration and detention
+    * Some individual data available, but it is not available for download in machine readable format and is limited in terms of aggregation level
 ### Asylum seekers in the United States
 * DHS immigration statistics
     * Summary statistics providing data on those seeking asylum in the United States, as well as information on immigration enforcement 
@@ -19,6 +23,12 @@ We compile various datasets and information sources surrounding migrant detentio
     * Justice Department Executive Office of Immigration Review provided BuzzFeed with information on the office's case-tracking database
     * Information details information updated or created between 1 January 2000 and 15 January 2015
     * Code available for BuzzFeed News' analysis of disparities in detention rates by nationality (although data itself currently is not accessible; zip files do not decompress)
+* [Refugees in the United States 206-2015](https://www.kaggle.com/dhs/refugee-report)
+    * Open dataset published by kaggle providing demographic information about asylum seekers compiled by the Office of Immigration Statistics using data from the Bureau of Population, Refugees, and Migration of the US Department of State
+* [Missing Migrants Data](https://www.kaggle.com/jmataya/missingmigrants) (international)
+    * Data originated from the International Organization for Migration and is part of the Missing Migrants Project
+    * Details information on migrants who have died or gone missing at external borders or in the process of migrating transnationally
+    * Information is a convenience sample of records from 2014 to June 2017
 ### Immigration process
 FILL ME IN
 ### Detention facilities
@@ -32,15 +42,27 @@ FILL ME IN
     * Summary statistics and visualizations about detention in the United States using data from the 2018 fiscal year
     * Raw data not available, but data is disaggregated in a number of ways in visualizations and summaries (ex. by state, age group, etc.)
 ### Immigration court
-FILL ME IN
-
-### Missing migrants
-
+---
 ## Data notes
-### Data that exists
-### Data that does not
-### Data that should exist
 ### Data quality
+* Little, if any, real time data
+* Data on detention is closed by design
+    * FOIA requests often the avenue through which data becomes available to the public
+* Reports about migrant detention seldom publish their source data or the code used to inform their analysis (whether qualitative or quantitative) or visualizations
+* When data is published it is often not done in formats that are easily machine readable
+* Data changes rapidly, meaning that published statistics can become out of date quickly
+### Ideas for new datasets
+* Data on detention center conditions
+    * Aggregation and coding of information describing conditions in centers obtained from ethnographic study
+* More sources of data broken down by detainee demographic characteristics, such as gender, age, nationality, travel status (alone, with family), etc.
+* Data on obstacles to immigration court hearings
 ### Ideas for future exploration
+* Sexual violence in detention centers
+* Experiences of children in detention centers
+* Process flow mapping to create statistics at each step in the asylum process
+* Use data voids to inform topical areas to submit FOIA requests about
+* Database where people can collaborate to find, process, and share data about migrant detentio
+* Creating visualizations that are accessible to the general population
+
 
 
