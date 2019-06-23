@@ -1,7 +1,6 @@
 # Data about migrant detention in the United States
 ## Summary
-
-
+We compile various datasets and information sources surrounding migrant detention in the United States in the 21<sup>st</sup> century, generally summarize the topics included and excluded from existing datasets, and provide examples of new information sources that should be created and explorations that can be done with existing data.
 ## Data & information sources
 ### Background
 * [Global Detention Project Report on United States Immigration Detention](https://www.globaldetentionproject.org/countries/americas/united-states)
@@ -15,6 +14,11 @@
         * [Yearbook if Immigration Statistics 2015](https://www.dhs.gov/immigration-statistics/yearbook/2015)
         * [Yearbook if Immigration Statistics 2016](https://www.dhs.gov/immigration-statistics/yearbook/2016)
         * [Yearbook if Immigration Statistics 2017](https://www.dhs.gov/immigration-statistics/yearbook/2017) (this report also provides some time series data)
+* [Immigration Detention by Nationality](https://github.com/BuzzFeedNews/2015-08-immigrant-detention/)
+    * Code and data supporting BuzzFeed article, "[Vast Disparities By Nationality In Immigration Jailings](https://www.buzzfeednews.com/article/davidnoriega/vast-disparities-by-nationality-in-immigration-jailings)," published 25 August, 2015
+    * Justice Department Executive Office of Immigration Review provided BuzzFeed with information on the office's case-tracking database
+    * Information details information updated or created between 1 January 2000 and 15 January 2015
+    * Code available for BuzzFeed News' analysis of disparities in detention rates by nationality (although data itself currently is not accessible; zip files do not decompress)
 ### Immigration process
 FILL ME IN
 ### Detention facilities
