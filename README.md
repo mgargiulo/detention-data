@@ -1,6 +1,4 @@
-# Data about migrant detention in the United States
 ## Summary
-
 We compile various datasets and information sources surrounding migrant detention in the United States in the 21<sup>st</sup> century, generally summarize the topics included and excluded from existing datasets, and provide examples of new information sources that should be created and explorations that can be done with existing data.
 
 ---
